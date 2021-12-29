@@ -26,13 +26,36 @@
 # else:
 #   print("not")
 
-a=[2,3,15,11,3,2]
-i=0
-while i<len(a):
-   if a==a[::-1]:
-      print("yes")
-      break
-   else:
-      print("not")
-      break
-   
+
+####
+# a=[2,3,15,11,3,2]
+# i=0
+# while i<len(a):
+#    if a==a[::-1]:
+#       print("yes")
+#       break
+#    else:
+#       print("not")
+#       break
+
+
+
+# list1=[1,2,3,4,5,6]
+# list2=[2,3,4,0,5,7]
+# list3=[item for item in list1 if item not in list2]
+# print(list3)
+
+# list1=[1,2,3,4,5,6]
+# list2=[2,3,4,0,5,7]
+# list3=[item for item in list1 if item not in list2]
+# print(list3)
+
+
+n=[30,40,28,16,39,50,59,48]
+total=0
+index=0
+grade=0
+while index<len(n):
+   total=total+n[index]
+   index+=1
+print(total)

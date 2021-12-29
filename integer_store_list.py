@@ -3,8 +3,7 @@
 # i=0
 # list=[]
 # while i<10:
-#    print("enter the elements:")
-#    num=int(input())
+#    num=int(input("enter the element"))
 #    list.append(num)
 #    i+=1
 # print(list)
@@ -18,3 +17,6 @@
 #    num=int(input("enter the elements:"))
 #    list.append(num)
 # print(list)
+
+
+#
