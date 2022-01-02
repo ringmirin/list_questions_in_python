@@ -23,3 +23,13 @@
 #    total+=sum
 #    i+=1
 # print(total)
+
+######
+# marks =[[78, 76, 94, 86, 88],[91, 71, 98, 65, 76],[95, 45, 78, 52, 49]]
+# sum=0
+# flatten_marks=[mark for sublist in marks for mark in sublist]
+# i=0
+# while i<len(flatten_marks):
+#    sum=sum+flatten_marks[i]
+#    i+=1
+# print(sum)
