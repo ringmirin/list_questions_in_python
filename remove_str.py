@@ -1,5 +1,6 @@
 # mainstr="the quick brown fox jumped over the lazy dog. the dog slept over the verandah"
 # str=mainstr.split()  
+# print(str)
 # i=0
 # while i<len(str):
 #    if str[i]=="over":
