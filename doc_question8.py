@@ -14,12 +14,26 @@
 
 
 
+# a = "Mummy?Papa?Brother?Sister?Uncle"
+# print(a.split())
+# print(a.split('?'))
+# print(a.split('?',1))
+# print(a.split('?',3))
+# print(a.split('?',10))
+# print(a.split('?',-1))
 
 
+# a=["a","b","c","c","d"]
+# b=[5,4,3,2,1]
+# i=0
+# while i<len(b):
+#    b.sort()
+#    c=a[i] + str(b[i])
+#    i+=1
+#    print(c,end=" ")
 
 
 
 
    
 
-# 

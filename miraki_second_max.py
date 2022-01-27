@@ -1,4 +1,4 @@
-# numbers = [50, 40, 23, 70, 56, 12, 5, 10, 7]
+# numbers = [5, 40, 23, 7, 5, 12, 50, 10, 70]
 # i=0
 # second_max=numbers[0]
 # largest=numbers[0]
@@ -8,8 +8,32 @@
 #    if numbers[i]>second_max and numbers[i]!=largest:
 #       second_max=numbers[i]
 #    i+=1
+# print(largest)
 # print(second_max)
 
+
+
+# num=int(input("enter the number:"))
+# i=0
+# list=[]
+# while i<num:
+#    n=int(input("enter the element:"))
+#    list.append(n)
+#    i+=1
+# print(list)
+# j=0
+# greatest=list[0]
+# second_great=list[0]
+# while j<len(list):
+#    if list[j]>greatest:
+#       greatest==list[j]
+#    if list[j]>second_great and list[j]!=greatest:
+#       second_great=list[j]
+#    j+=1
+# print(second_great)
+# print(greatest)
+      
+      
 
 
 # i=0

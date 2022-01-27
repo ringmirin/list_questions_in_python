@@ -22,11 +22,11 @@
 
 
 
-# b_n=[1,0,0,0,0,1,1]
+# n=[1,0,0,0,0,1,1]
 # decimal=0
 # i=0
-# while i<len(b_n):
-#    decimal=decimal*2+b_n[i]
+# while i<len(n):
+#    decimal=decimal*2+n[i]
 #    i+=1
 # print(decimal)
 
