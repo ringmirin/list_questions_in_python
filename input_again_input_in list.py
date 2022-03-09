@@ -24,16 +24,3 @@
 # else:
 #         print("no")
 
-i=0
-list=[]
-while i<10:
-   
-   num=int(input("enter the elements="))
-   list.append(num)
-   i+=1
-
-number=int(input("enter another element again"))
-if number in list:
-   print("yes")
-else:
-   print("no")

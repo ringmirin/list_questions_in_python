@@ -25,7 +25,7 @@
 #    else:
 #       print("WRONG ANSWER")
 #    i+=1
-#    j+=14 
+#    j+=1
 
 
          
